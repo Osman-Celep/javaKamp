@@ -48,8 +48,6 @@ public class Main {
 		manager.getModelsColourOptions(models);
 		
 		manager.getModelsLowerThanGivenPrice(models, 300000);
-		
-		manager.getModelsLowerThanGivenPrice(models, 150000);
 	}
 
 }
